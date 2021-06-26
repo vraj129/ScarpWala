@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "63368120198",
+    "project_id": "scrapwala-a31c1",
+    "storage_bucket": "scrapwala-a31c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63368120198:android:3559000e585a871fe0ce07",
+        "android_client_info": {
+          "package_name": "com.example.scrapwala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63368120198-9k5rf0fod9mmpgno9s937jpdj1vobrdg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHXbEBYjMHLWRiXN4OB7HEaC0jP9xrWwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63368120198-9k5rf0fod9mmpgno9s937jpdj1vobrdg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
